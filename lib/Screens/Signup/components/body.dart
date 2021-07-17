@@ -28,7 +28,7 @@ class Body extends StatelessWidget {
               height: size.height * 0.35,
             ),
             RoundedInputField(
-              hintText: "Your Email",
+              hintText: "Сургуулийн МЭЙЛ бич!!!",
               onChanged: (value) {},
             ),
             RoundedPasswordField(

@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/assets/icons/.DS_Store</key>
 		<data>
-		NFMmCeC4vYgJ8sA2tiLCF/GB+zU=
+		obzL6dxwdA0taiVlZWW7uzBU67k=
 		</data>
 		<key>flutter_assets/assets/icons/chat.svg</key>
 		<data>
@@ -38,15 +38,11 @@
 		</data>
 		<key>flutter_assets/assets/icons/login.svg</key>
 		<data>
-		KAYhNvqMgCkn1TkI0ZvkVK7lEEk=
+		2zixsPPwuWJuLdoj3b9fDvC3p6Y=
 		</data>
 		<key>flutter_assets/assets/icons/signup.svg</key>
 		<data>
 		WunBHvPtYV6nceZsDGwPP910uVY=
-		</data>
-		<key>flutter_assets/assets/icons/tomujin-logo.png</key>
-		<data>
-		2jC6FkZEWM7MiO+Gr8yTFJYku6A=
 		</data>
 		<key>flutter_assets/assets/icons/twitter.svg</key>
 		<data>
@@ -169,11 +165,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KAYhNvqMgCkn1TkI0ZvkVK7lEEk=
+			2zixsPPwuWJuLdoj3b9fDvC3p6Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			zDlO+BReLePbZioULa86vdsNATl9ddcK3xVixDmHmoI=
+			+cRXjWRX6Gt3T0ScUETu10K1ufS9kvMpf38GMlhfc70=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/icons/signup.svg</key>
@@ -185,17 +181,6 @@
 			<key>hash2</key>
 			<data>
 			HGpgulxWp2pWLF7wKOhyTETOM23h8T3ZwXmu9X4oTAc=
-			</data>
-		</dict>
-		<key>flutter_assets/assets/icons/tomujin-logo.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2jC6FkZEWM7MiO+Gr8yTFJYku6A=
-			</data>
-			<key>hash2</key>
-			<data>
-			VwYOiJzCMitVC3fdY+6G7+Gca587iEIuUIArMR6M6rQ=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/icons/twitter.svg</key>
